@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.game{
+
+    text-align: center;
+
+    padding: 40px;
+
+}
+
+.Text{
+    padding: 30px;
+
+
+}
+
+.Choice, .play{
+    padding: 10px;
+    line-height: 30px;
+    width: 100px;
+    margin: 3px;
+    margin-top: 50px;
+}
+.play{
+    margin: 50px;
+}
